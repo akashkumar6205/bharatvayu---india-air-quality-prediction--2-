@@ -1,0 +1,8 @@
+{
+  "name": "BharatVayu - India Air Quality Prediction",
+  "description": "A sophisticated AI-powered platform for real-time air quality monitoring across India using BharatVayu AI (Gemini 3).",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
